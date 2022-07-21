@@ -1,0 +1,11 @@
+md5: c2ca93477675db3b3d9c17925ef1e573
+frozen: true
+deps:
+- path: data/time.csv
+  repo:
+    url: https://github.com/Vishal-Katiyar/dvc_basics-.git
+    rev_lock: 800374eb9f56b76431685bd0d17d63c8902fcff5
+outs:
+- md5: 92a9e8c2af6372d7f0545fe3ffe409a5
+  size: 298846
+  path: time.csv
