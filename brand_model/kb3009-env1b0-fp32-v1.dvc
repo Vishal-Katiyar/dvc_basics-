@@ -1,0 +1,5 @@
+outs:
+- md5: ef2d8edeab09b92042fa81d86f1f48be.dir
+  size: 25344101
+  nfiles: 5
+  path: kb3009-env1b0-fp32-v1
