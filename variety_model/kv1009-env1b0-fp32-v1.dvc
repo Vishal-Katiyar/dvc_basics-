@@ -1,0 +1,5 @@
+outs:
+- md5: 2742582b539496faaacf48b50c760403.dir
+  size: 33821519
+  nfiles: 5
+  path: kv1009-env1b0-fp32-v1
