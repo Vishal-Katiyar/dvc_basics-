@@ -1,5 +1,5 @@
 outs:
-- md5: cfa06e82b96b69944ff891d3a2361ee6.dir
-  size: 27230965
-  nfiles: 5
+- md5: 669d484fc0ec90a5b7ac3d94b7d57051.dir
+  size: 61052484
+  nfiles: 10
   path: variety_model
