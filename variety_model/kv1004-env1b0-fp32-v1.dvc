@@ -1,0 +1,5 @@
+outs:
+- md5: 727ebdfce08dc5b7ecffb8ba5d67959b.dir
+  size: 27230965
+  nfiles: 5
+  path: kv1004-env1b0-fp32-v1
